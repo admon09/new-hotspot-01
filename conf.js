@@ -1,8 +1,8 @@
 var config = {
 
-loginvc : "Masukkan Kode Voucher kemudian klik Connect.",
-loginup : "Masukkan Username dan Password <br> kemudian klik Connect.",
-voucherCode : "Kode Voucher",
+loginvc : "Hotspot_Perfection, 4h = 100F validité 2jrs, 24h = 200F validité 1jr, 500F = 1 semaine, 1.500 = 1 mois, Renseignement +228 92 13 58 98.",
+loginup : "Hotspot_Perfection, 4h = 100F validité 2jrs, 24h = 200F validité 1jr, 500F = 1 semaine, 1.500 = 1 mois, Renseignement +228 92 13 58 98.",
+voucherCode : "Code",
 setCase : "none", // lowercase, uppercase or none
 defaultMode : "voucher", // voucher or member
 theme : "default", // default, dark, lite
